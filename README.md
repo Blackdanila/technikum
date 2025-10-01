@@ -17,7 +17,7 @@
 
 ## Используемые технологии
 
-- Java 8+
+- Java 17+
 - JUnit 5
 - Mockito
 - WireMock 3.x
